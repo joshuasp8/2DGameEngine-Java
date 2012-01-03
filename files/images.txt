@@ -1,0 +1,4 @@
+rit_puyo_blue
+rit_puyo_red
+rit_puyo_green
+rit_puyo_yellow
